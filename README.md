@@ -1,4 +1,4 @@
-## Boas vindas ao repositório do projeto Web Service!
+## Boas vindas ao repositório do projeto API Rest!
 
 
 
