@@ -79,4 +79,4 @@ Caso queria manipular algum basePath, basta entrar no repositório "request" cla
 O Projeto pode melhorar muito. Fico a disposição para feedbacks. 
 
 
-Feito Alexandre Alves Ramos Junior 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alexandre-alves-a77b127a/)
+Feito por Alexandre Alves Ramos Junior 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alexandre-alves-a77b127a/)
