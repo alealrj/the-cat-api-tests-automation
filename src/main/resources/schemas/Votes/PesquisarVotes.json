@@ -1,0 +1,251 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "image_id": {
+          "type": "string"
+        },
+        "sub_id": {
+          "type": "string"
+        },
+        "created_at": {
+          "type": "string"
+        },
+        "value": {
+          "type": "integer"
+        },
+        "country_code": {
+          "type": "string"
+        },
+        "image": {
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "image_id",
+        "sub_id",
+        "created_at",
+        "value",
+        "country_code",
+        "image"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "image_id": {
+          "type": "string"
+        },
+        "sub_id": {
+          "type": "string"
+        },
+        "created_at": {
+          "type": "string"
+        },
+        "value": {
+          "type": "integer"
+        },
+        "country_code": {
+          "type": "string"
+        },
+        "image": {
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "image_id",
+        "sub_id",
+        "created_at",
+        "value",
+        "country_code",
+        "image"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "image_id": {
+          "type": "string"
+        },
+        "sub_id": {
+          "type": "string"
+        },
+        "created_at": {
+          "type": "string"
+        },
+        "value": {
+          "type": "integer"
+        },
+        "country_code": {
+          "type": "string"
+        },
+        "image": {
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "image_id",
+        "sub_id",
+        "created_at",
+        "value",
+        "country_code",
+        "image"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "image_id": {
+          "type": "string"
+        },
+        "sub_id": {
+          "type": "string"
+        },
+        "created_at": {
+          "type": "string"
+        },
+        "value": {
+          "type": "integer"
+        },
+        "country_code": {
+          "type": "string"
+        },
+        "image": {
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "image_id",
+        "sub_id",
+        "created_at",
+        "value",
+        "country_code",
+        "image"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "image_id": {
+          "type": "string"
+        },
+        "sub_id": {
+          "type": "string"
+        },
+        "created_at": {
+          "type": "string"
+        },
+        "value": {
+          "type": "integer"
+        },
+        "country_code": {
+          "type": "string"
+        },
+        "image": {
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "image_id",
+        "sub_id",
+        "created_at",
+        "value",
+        "country_code",
+        "image"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "image_id": {
+          "type": "string"
+        },
+        "sub_id": {
+          "type": "string"
+        },
+        "created_at": {
+          "type": "string"
+        },
+        "value": {
+          "type": "integer"
+        },
+        "country_code": {
+          "type": "string"
+        },
+        "image": {
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "image_id",
+        "sub_id",
+        "created_at",
+        "value",
+        "country_code",
+        "image"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "image_id": {
+          "type": "string"
+        },
+        "sub_id": {
+          "type": "string"
+        },
+        "created_at": {
+          "type": "string"
+        },
+        "value": {
+          "type": "integer"
+        },
+        "country_code": {
+          "type": "string"
+        },
+        "image": {
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "image_id",
+        "sub_id",
+        "created_at",
+        "value",
+        "country_code",
+        "image"
+      ]
+    }
+  ]
+}
