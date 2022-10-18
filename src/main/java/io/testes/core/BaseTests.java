@@ -1,6 +1,6 @@
-package io.midway.core;
+package io.testes.core;
 
-import io.midway.report.TestListeners;
+import io.testes.report.TestListeners;
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.builder.ResponseSpecBuilder;

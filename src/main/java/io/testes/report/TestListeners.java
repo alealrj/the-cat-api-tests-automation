@@ -1,10 +1,10 @@
-package io.midway.report;
+package io.testes.report;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.markuputils.CodeLanguage;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
-import io.midway.core.BaseTests;
+import io.testes.core.BaseTests;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import org.testng.*;

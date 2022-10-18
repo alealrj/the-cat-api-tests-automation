@@ -1,5 +1,5 @@
-import io.midway.core.BaseTests;
-import io.midway.request.VotesRequest;
+import io.testes.core.BaseTests;
+import io.testes.request.VotesRequest;
 import io.restassured.module.jsv.JsonSchemaValidator;
 import io.restassured.response.ValidatableResponse;
 import org.testng.annotations.Test;

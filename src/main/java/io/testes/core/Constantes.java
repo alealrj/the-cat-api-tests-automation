@@ -1,4 +1,4 @@
-package io.midway.core;
+package io.testes.core;
 
 import io.restassured.http.ContentType;
 

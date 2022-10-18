@@ -1,4 +1,4 @@
-package io.midway.payloads;
+package io.testes.payloads;
 
 public class VotesPayloads {
 

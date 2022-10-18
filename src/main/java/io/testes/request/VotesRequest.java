@@ -1,9 +1,9 @@
-package io.midway.request;
+package io.testes.request;
 
-import io.midway.core.BaseTests;
-import io.midway.core.Constantes;
-import io.midway.payloads.VotesPayloads;
-import io.midway.report.TestListeners;
+import io.testes.core.BaseTests;
+import io.testes.core.Constantes;
+import io.testes.payloads.VotesPayloads;
+import io.testes.report.TestListeners;
 import io.restassured.response.ValidatableResponse;
 
 import java.util.HashMap;
