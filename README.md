@@ -45,7 +45,7 @@ Nesse projeto, fui capaz de:
 
 
 
-Foi criado um repositorio chamado "constantes" ondeu eu declaro as variaveis base do projeto (x-api-key e base_url).
+Foi criado um repositorio chamado "constantes" onde eu declaro as variaveis base do projeto (x-api-key e base_url).
 
 No repositório "payload", tem uma classe "VotesPayloads" onde eu passo o payload necessario para a requisição post.
 
